@@ -6,7 +6,7 @@
 			<Metadata name="HTTPService.ApiService_Http.URLTemplate.query.Method.ВыполнитьЗапросКБазеДанных" id="0fdb0b77-7ccb-4479-b571-9bb3b2cfe684"/>
 			<Metadata name="HTTPService.ApiService_Http.URLTemplate.query" id="72968b73-b68f-4468-926b-79894a1b1801"/>
 		</Metadata>
-		<Metadata name="HTTPService.ApiService_Http.Module" id="2c3de531-e5c6-4361-b2cf-93b76ab46514.0" configVersion="15136ba551ac69433de73733824f712a9639a4cc"/>
+		<Metadata name="HTTPService.ApiService_Http.Module" id="2c3de531-e5c6-4361-b2cf-93b76ab46514.0" configVersion="24fc3606600c29eee9d558a6500368d91b6ccf63"/>
 		<Metadata name="Language.Русский" id="a6289cc9-3f03-49e5-99bb-b24f7dac9746" configVersion="61adee29ea63cab918bdf9da401014a464c1b4d2"/>
 		<Metadata name="Role.ApiService_ОсновнаяРоль" id="ddf1ba95-847a-40dd-aa12-2d8465d693f1" configVersion="03e0ae4c8d3c4dd95659493168490486c1b4af4a"/>
 		<Metadata name="WebService.ApiService_Web" id="54dedffb-528f-4cfd-855f-5d372eb2f163" configVersion="83ac16f95486b1903d62372dce371bd0a19cf8b7">
