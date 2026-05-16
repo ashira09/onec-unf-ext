@@ -44,6 +44,35 @@
 					</Method>
 				</ChildObjects>
 			</URLTemplate>
+			<URLTemplate uuid="8e1f5935-fec0-41db-a712-23ff40715114">
+				<Properties>
+					<Name>structure</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Structure</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Template>/structure</Template>
+				</Properties>
+				<ChildObjects>
+					<Method uuid="468c147e-809f-47dd-8974-ad3ab23d7508">
+						<Properties>
+							<Name>ПолучитьСтруктурыБазыДанных</Name>
+							<Synonym>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Получить структуры базы данных</v8:content>
+								</v8:item>
+							</Synonym>
+							<Comment/>
+							<HTTPMethod>GET</HTTPMethod>
+							<Handler>structureПолучитьСтруктурыБазыДанных</Handler>
+						</Properties>
+					</Method>
+				</ChildObjects>
+			</URLTemplate>
 		</ChildObjects>
 	</HTTPService>
 </MetaDataObject>
